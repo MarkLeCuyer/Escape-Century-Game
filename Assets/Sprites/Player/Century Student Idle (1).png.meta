@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 5a161210cfd5161449ec48c89da98759
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2062909156831469660
+    second: Century Student Idle (1)_0
+  - first:
+      213: 3480098227384768649
+    second: Century Student Idle (1)_1
+  - first:
+      213: -14580377018101832
+    second: Century Student Idle (1)_2
+  - first:
+      213: 3507346276059113061
+    second: Century Student Idle (1)_3
+  - first:
+      213: -8684729085793289572
+    second: Century Student Idle (1)_4
+  - first:
+      213: -3701127807460632311
+    second: Century Student Idle (1)_5
+  - first:
+      213: 6452923325590904656
+    second: Century Student Idle (1)_6
+  - first:
+      213: 8045716962302452997
+    second: Century Student Idle (1)_7
+  - first:
+      213: 2107593031184354816
+    second: Century Student Idle (1)_8
+  - first:
+      213: 2660623260308060452
+    second: Century Student Idle (1)_9
+  - first:
+      213: -5017912320530122641
+    second: Century Student Idle (1)_10
+  - first:
+      213: -8880293608311178851
+    second: Century Student Idle (1)_11
+  - first:
+      213: 8041757896816132095
+    second: Century Student Idle (1)_12
+  - first:
+      213: 758686675417511528
+    second: Century Student Idle (1)_13
+  - first:
+      213: 8777950010263797553
+    second: Century Student Idle (1)_14
+  - first:
+      213: 8236367814039612075
+    second: Century Student Idle (1)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Century Student Idle (1)_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 201
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5027d8c2fce0ac10800000000000000
+      internalID: 2062909156831469660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 201
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9885cb246eacb4030800000000000000
+      internalID: 3480098227384768649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 201
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf052f69333ccff0800000000000000
+      internalID: -14580377018101832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 201
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566eac8fad89ca030800000000000000
+      internalID: 3507346276059113061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 137
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ab9cef8e4a97780800000000000000
+      internalID: -8684729085793289572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 137
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9091df75ed3f2acc0800000000000000
+      internalID: -3701127807460632311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 137
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f9da853936d8950800000000000000
+      internalID: 6452923325590904656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 137
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5056f5df2f028af60800000000000000
+      internalID: 8045716962302452997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 73
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e05d202bcaf3d10800000000000000
+      internalID: 2107593031184354816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 73
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429bdc732ce6ce420800000000000000
+      internalID: 2660623260308060452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 73
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68febc945bcc5ab0800000000000000
+      internalID: -5017912320530122641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 73
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99b077530cd2c480800000000000000
+      internalID: -8880293608311178851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 9
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffffa6933301a9f60800000000000000
+      internalID: 8041757896816132095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 9
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8663518f285678a00800000000000000
+      internalID: 758686675417511528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 9
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ff8e9d60b81d970800000000000000
+      internalID: 8777950010263797553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Century Student Idle (1)_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 9
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaaa4383e47d4270800000000000000
+      internalID: 8236367814039612075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Century Student Idle (1)_0: 2062909156831469660
+      Century Student Idle (1)_1: 3480098227384768649
+      Century Student Idle (1)_10: -5017912320530122641
+      Century Student Idle (1)_11: -8880293608311178851
+      Century Student Idle (1)_12: 8041757896816132095
+      Century Student Idle (1)_13: 758686675417511528
+      Century Student Idle (1)_14: 8777950010263797553
+      Century Student Idle (1)_15: 8236367814039612075
+      Century Student Idle (1)_2: -14580377018101832
+      Century Student Idle (1)_3: 3507346276059113061
+      Century Student Idle (1)_4: -8684729085793289572
+      Century Student Idle (1)_5: -3701127807460632311
+      Century Student Idle (1)_6: 6452923325590904656
+      Century Student Idle (1)_7: 8045716962302452997
+      Century Student Idle (1)_8: 2107593031184354816
+      Century Student Idle (1)_9: 2660623260308060452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
